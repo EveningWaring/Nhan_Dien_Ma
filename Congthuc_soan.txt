@@ -1,0 +1,13 @@
+[Từ khóa kích thích] + [Giải thưởng/Tiền] + [Hành động ngay] + [Link/Số điện thoại lạ] -> Spam
+VD: Congratulations! You have WON a FREE prize worth £1000! 
+Call NOW 08712460324 or click www.claim-prize.co.uk to claim!
+| Nhóm               | Từ khóa gây trigger spam                              |
+| ------------------ | ----------------------------------------------------- |
+| Giải thưởng        | won, winner, prize, award, selected                   |
+| Tiền               | free, cash, £, $, bonus, voucher                      |
+| Hành động          | claim, call now, urgent, reply, text                  |
+| Link lạ            | www.prize-xxx.com, bit.ly, không phải google/facebook |
+| Số điện thoại      | 0871..., 84488, dãy số dài lạ                         |
+| Giới hạn thời gian | expires, tonight, limited, don't miss                 |
+
+Hey, are you coming to the birthday party on Saturday? -> Ham
